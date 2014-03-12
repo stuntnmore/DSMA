@@ -8,6 +8,7 @@ Installation
 
 That's it!
 
+SCREENSHOTS:
 ![](http://i.imgur.com/dyJVKxC.png)
 ![](http://i.imgur.com/hPDJa9e.png)
 ![](http://i.imgur.com/KW3JWBm.png)
