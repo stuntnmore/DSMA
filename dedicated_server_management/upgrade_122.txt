@@ -1,0 +1,9 @@
+Installation
+-------------
+1- Move the folder dedicated_server_management to /whmcs/modules/admin/
+2- Overide the files that are already there, don't worry nothing really changed!
+3- Open PHPMyAdmin, MySQL Administrator, or MySQL Workbench, whichever is confortable to you and open your WHMCS Database.
+4- Run this query on your database to update it:
+ALTER TABLE `mod_ds_manage` ADD `ssh_port` VARCHAR( 255 ) NOT NULL AFTER `root_pass` ,ADD `rdc_port` VARCHAR( 255 ) NOT NULL AFTER `ssh_port`, ADD `bandwidth` VARCHAR( 255 ) NOT NULL AFTER `ram` ,
+
+That's it!

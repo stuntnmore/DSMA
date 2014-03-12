@@ -1,0 +1,7 @@
+1- Move the folder dedicated_server_management to /whmcs/modules/admin/
+2- Follow the installation script.
+
+Activate the plugin from your addons in your admin area
+Check your addons and you should be all set
+
+If you are interested in helping me develop this addon and keep it free, and better please let me know.
