@@ -15,6 +15,13 @@ Planned Features
 
 Change log
 -----------
+1.23Beta
+------
+* Optimized Code & Bugs
+* Compatible With 5.3+
+* Updated to Bootstroop 3.0
+* Html Cleanup And Layout
+-----------
 1.22
 ------
 * Added Bandwith
