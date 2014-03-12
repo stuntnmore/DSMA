@@ -1,4 +1,4 @@
-DSMA
+Dedicated Server Management Addon (DSMA)
 ====
 
 Installation
