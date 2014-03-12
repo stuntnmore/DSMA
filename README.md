@@ -8,3 +8,9 @@ Installation
 
 That's it!
 
+![](http://i.imgur.com/dyJVKxC.png)
+![](http://i.imgur.com/hPDJa9e.png)
+![](http://i.imgur.com/KW3JWBm.png)
+![](http://i.imgur.com/BTSah9Z.png)
+![](http://i.imgur.com/4T7T1jg.png)
+![](http://i.imgur.com/pHJ8Inj.png)
