@@ -1,5 +1,9 @@
 Change log
 -----------
+1.24Beta
+------
+* Fixed PHP Vulnerability (Local file inclusion $page)
+-----------
 1.23Beta
 ------
 * Optimized Code & Bugs
