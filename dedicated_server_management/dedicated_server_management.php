@@ -8,8 +8,11 @@
 * Email: stuntkiller123@gmail.com
 *******************************************************************************
 */
-
 $page=$_GET[page];
+$allowedPages = array('server_add.php', 'server_delete.php', 'server_details.php', 'server_list.php');
+
+if (!empty($_GET['page']) && in_array($_GET['page'], $allowedPages))
+    $page = $_GET['page'];
 
 $table="mod_ds_manage";
 
@@ -46,7 +49,8 @@ include ("server_list.php");
 }
 else
 {
-include ($_GET[page].".php");
+include $page;
+ 
 }
 
 
